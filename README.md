@@ -7,3 +7,7 @@ Universität Regensburg: Forschungsseminar MMI (SS19) - Gruppenprojekt
 
 ## Testziel
 Gibt es einen Unterschied in der Akzeptanz beim Tragen von VR-Brillen im Alltag durch Männer und Frauen?
+
+# Anmerkungen
+- Geschrieben wird in dem File: sample-sighchi.tex
+- References in dem File: sample-base.bib (können dann mit \cite{...} referenziert werden.
