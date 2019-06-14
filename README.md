@@ -13,3 +13,6 @@ Während des schreibens:
 - Geschrieben wird in dem File: sample-sighchi.tex
 - References in dem File: sample-base.bib (können dann mit \cite{...} referenziert werden.
 - Fertiges PDF ist das File: sample-sigchi.pdf
+
+# Diskussionspunkte
+- liegt es an den Gesten, oder an der VR - Brille? 
