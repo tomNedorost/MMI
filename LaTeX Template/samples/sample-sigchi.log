@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.1)  2 JUN 2019 14:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.1)  17 JUN 2019 23:32
 entering extended mode
 **./sample-sigchi.tex
 (sample-sigchi.tex
@@ -1057,9 +1057,9 @@ Package caption Info: End \AtBeginDocument code.
 
 Excluding 'CCSXML' comment.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 179.
+(Font)              scaled to size 20.74pt on input line 176.
 LaTeX Font Info:    Try loading font information for T1+LinuxBiolinumT-TLF on i
-nput line 179.
+nput line 176.
 
 (C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/libertine\t1linuxbiolinumt-t
 lf.fd
@@ -1067,23 +1067,23 @@ File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Lin
 uxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 179.
+(Font)              scaled to size 20.74pt on input line 176.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxBiolinumT-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 20.74pt on input line 179.
+(Font)              scaled to size 20.74pt on input line 176.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 179.
+(Font)              scaled to size 10.0pt on input line 176.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 179.
+(Font)              scaled to size 10.0pt on input line 176.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 179.
+(Font)              scaled to size 7.3pt on input line 176.
  (C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 ) (C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/microtype\mt-msb.cfg
@@ -1091,9 +1091,9 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 [1.1]
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 8.0pt on input line 179.
+(Font)              scaled to size 8.0pt on input line 176.
 LaTeX Font Info:    Try loading font information for TS1+LinuxLibertineT-TLF on
- input line 179.
+ input line 176.
 
 (C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/libertine\ts1linuxlibertinet
 -tlf.fd
@@ -1101,213 +1101,79 @@ File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/
 LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 179.
+(Font)              scaled to size 8.0pt on input line 176.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 179.
+(Font)              scaled to size 10.0pt on input line 176.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 179.
+(Font)              scaled to size 10.0pt on input line 176.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 179.
+(Font)              scaled to size 6.0pt on input line 176.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 179.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 179.
+(Font)              scaled to size 6.0pt on input line 176.
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 179.
+(Font)              scaled to size 10.0pt on input line 176.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 179.
+(Font)              scaled to size 10.0pt on input line 176.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 179.
+(Font)              scaled to size 9.0pt on input line 176.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 179.
+(Font)              scaled to size 9.0pt on input line 176.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 179.
+(Font)              scaled to size 9.0pt on input line 176.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 179.
-
-Overfull \hbox (3.63199pt too wide) in paragraph at lines 187--190
-\T1/LinuxLibertineT-TLF/m/n/10 (-20) dif-fer-ent pic-tures show-ing peo-ple wit
-h and with-out VR glasses
- []
-
-LaTeX Font Info:    Try loading font information for T1+zi4 on input line 203.
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/inconsolata\t1zi4.fd
-File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
-)
-LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 10.0pt on input line 203.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `zi4' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-Package microtype Info: Character `textendash ' is missing
-(microtype)             in font `T1/zi4/m/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textemdash ' is missing
-(microtype)             in font `T1/zi4/m/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 7.3pt on input line 212.
+(Font)              scaled to size 9.0pt on input line 176.
+Missing character: There is no ´ in font LinLibertineT-tlf-ts1!
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 235.
-
-[2.2{C:/Users/Tom/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+(Font)              scaled to size 8.0pt on input line 184.
+ [2.2{C:/Users/Tom/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 ]
-Overfull \hbox (1.20413pt too wide) in paragraph at lines 251--255
-\T1/LinuxLibertineT-TLF/m/n/10 (-20) fer-ence sub-mis-sion. Anonymizes the work
- and in-cludes
- []
-
-[3.3]
-Overfull \hbox (3.13414pt too wide) in paragraph at lines 370--373
-[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) User-defined key-words are a comma-separ
-ated list of words
- []
-
-
-Overfull \hbox (5.78854pt too wide) in paragraph at lines 379--383
-[][]\T1/zi4/m/n/10 section[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) , [][]\T1/zi4/
-m/n/10 subsection[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) , [][]\T1/zi4/m/n/10 su
-bsubsection[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) , and [][]\T1/zi4/m/n/10 para
-graph[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) . They
- []
-
-[4.4]
-<sample-franklin.png, id=180, 411.5375pt x 323.2075pt>
-File: sample-franklin.png Graphic file (type png)
-<use sample-franklin.png>
-Package pdftex.def Info: sample-franklin.png  used on input line 501.
-(pdftex.def)             Requested size: 241.14749pt x 189.3888pt.
-
-Overfull \hbox (10.17221pt too wide) in paragraph at lines 528--528
-[]    \T1/zi4/m/n/10 \includegraphics[width=\textwidth]{sampleteaser}[] 
- []
-
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/sc' will be
-(Font)              scaled to size 10.0pt on input line 532.
-
-Overfull \hbox (18.26735pt too wide) in paragraph at lines 539--541
-\T1/LinuxLibertineT-TLF/m/n/10 (-20) with these two com-mands, placed just be-f
-ore the [][]\T1/zi4/m/n/10 \end{document}
- []
-
-
-Overfull \hbox (61.66254pt too wide) in paragraph at lines 548--553
-\T1/LinuxLibertineT-TLF/m/n/10 (-20) please in-clude this com-mand in the \T1/L
-inuxLibertineT-TLF/b/n/10 pre-am-ble \T1/LinuxLibertineT-TLF/m/n/10 (-20) (be-f
-ore ``[][]\T1/zi4/m/n/10 \begin{document}[]\T1/LinuxLibertineT-TLF/m/n/10 (-20)
- '')
- []
-
-[5.5 <./sample-franklin.png>]
-Overfull \hbox (27.19371pt too wide) in paragraph at lines 609--612
-\T1/LinuxLibertineT-TLF/m/n/10 (-20) If your work needs an ap-pen-dix, add it b
-e-fore the ``[][]\T1/zi4/m/n/10 \end{document}[]\T1/LinuxLibertineT-TLF/m/n/10 
-(-20) ''
- []
-
-Processing 'acks' comment.
-\openout3 = `comment.cut'.
-
- Comment 'acks' writing to comment.cut.
-Straight input of comment.cut. (comment.cut) (sample-sigchi.bbl
-Underfull \vbox (badness 1910) has occurred while \output is active []
-
-LaTeX Info: Redefining \tempurl on input line 65.
-LaTeX Info: Redefining \tempurl on input line 80.
-LaTeX Info: Redefining \tempurl on input line 103.
-LaTeX Info: Redefining \tempurl on input line 141.
-LaTeX Info: Redefining \tempurl on input line 154.
-LaTeX Info: Redefining \tempurl on input line 175.
-LaTeX Info: Redefining \tempurl on input line 190.
-LaTeX Info: Redefining \tempurl on input line 204.
-LaTeX Info: Redefining \tempurl on input line 246.
-LaTeX Info: Redefining \tempurl on input line 293.
-LaTeX Info: Redefining \tempurl on input line 310.
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6.6]
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 6.2pt on input line 339.
-LaTeX Info: Redefining \tempurl on input line 355.
-LaTeX Info: Redefining \tempurl on input line 369.
-LaTeX Info: Redefining \tempurl on input line 381.
-
-Underfull \hbox (badness 1270) in paragraph at lines 375--384
-[]\T1/LinuxLibertineT-TLF/m/n/8 (+20) Barack Obama. 2008.  A more per-fect unio
-n.  Video.   Re-
- []
-
-LaTeX Info: Redefining \tempurl on input line 394.
-LaTeX Info: Redefining \tempurl on input line 408.
-LaTeX Info: Redefining \tempurl on input line 479.
-LaTeX Info: Redefining \tempurl on input line 494.
-LaTeX Info: Redefining \tempurl on input line 506.
-LaTeX Info: Redefining \tempurl on input line 518.
-LaTeX Info: Redefining \tempurl on input line 532.
-)
-Overfull \hbox (1.22945pt too wide) in paragraph at lines 657--662
-\T1/LinuxLibertineT-TLF/m/n/10 (-20) Lorem ip-sum do-lor sit amet, con-secte-tu
-r adip-isc-ing elit. Morbi
- []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
+ [3.3]
+(sample-sigchi.bbl)
 
 Package balance Warning: You have called \balance in second column
 (balance)                Columns might not be balanced.
 
-[7.7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 683.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 683.
+[4.4]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 228.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 228.
  (sample-sigchi.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 683.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 683.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 228.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 228.
 Package rerunfilecheck Info: File `sample-sigchi.out' has not changed.
-(rerunfilecheck)             Checksum: E7770D6E1FD532297ACAF55A0C6AA63F;3952.
+(rerunfilecheck)             Checksum: A4760FC8D992CD2E3E5A525A1F6EC48E;1167.
  ) 
 Here is how much of TeX's memory you used:
- 18649 strings out of 492897
- 282526 string characters out of 3133505
- 409682 words of memory out of 3000000
- 21632 multiletter control sequences out of 15000+200000
- 178039 words of font info for 344 fonts, out of 3000000 for 9000
+ 18273 strings out of 492897
+ 275964 string characters out of 3133505
+ 400322 words of memory out of 3000000
+ 21464 multiletter control sequences out of 15000+200000
+ 134438 words of font info for 235 fonts, out of 3000000 for 9000
  1302 hyphenation exceptions out of 8191
- 60i,12n,94p,825b,655s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Tom/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lbtn_ncsll
-p.enc}{C:/Users/Tom/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/newtx/libertinea
-lt.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}{C:/Users/Tom/A
-ppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lbtn_oexx6f.enc}{C:/Users/T
-om/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/inconsolata/i4-t1-4.enc}{C:/Users
-/Tom/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{C:/U
-sers/Tom/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{
-C:/Users/Tom/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lbtn_76gpa5.e
-nc}{C:/Users/Tom/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lbtn_nh77
-jq.enc}{C:/Users/Tom/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lbtn_
-25tcsq.enc}<C:/Users/Tom/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/inconsol
-ata/Inconsolata-zi4r.pfb><C:/Users/Tom/AppData/Roaming/MiKTeX/2.9/fonts/type1/p
-ublic/libertine/LinBiolinumT.pfb><C:/Users/Tom/AppData/Roaming/MiKTeX/2.9/fonts
-/type1/public/libertine/LinBiolinumTB.pfb><C:/Users/Tom/AppData/Roaming/MiKTeX/
-2.9/fonts/type1/public/libertine/LinLibertineT.pfb><C:/Users/Tom/AppData/Roamin
-g/MiKTeX/2.9/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Users/Tom/AppD
-ata/Roaming/MiKTeX/2.9/fonts/type1/public/libertine/LinLibertineTI.pfb><C:/User
-s/Tom/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/newtx/fxlri-7letters.pfb><C
-:/Users/Tom/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/txfonts/rtxr.pfb><C:/
-Users/Tom/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/newtx/txexs.pfb><C:/Use
-rs/Tom/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/newtx/txsys.pfb><C:/Users/
-Tom/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/newtx/zxlr.pfb><C:/Users/Tom/
-AppData/Roaming/MiKTeX/2.9/fonts/type1/public/newtx/zxlri.pfb>
-Output written on sample-sigchi.pdf (7 pages, 713168 bytes).
+ 60i,11n,94p,1983b,436s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Tom/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lbtn_7gruk
+w.enc}{C:/Users/Tom/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lbtn_n
+aooyc.enc}{C:/Users/Tom/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lb
+tn_76gpa5.enc}{C:/Users/Tom/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertin
+e/lbtn_nh77jq.enc}{C:/Users/Tom/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libe
+rtine/lbtn_25tcsq.enc}<C:/Users/Tom/AppData/Roaming/MiKTeX/2.9/fonts/type1/publ
+ic/libertine/LinBiolinumT.pfb><C:/Users/Tom/AppData/Roaming/MiKTeX/2.9/fonts/ty
+pe1/public/libertine/LinBiolinumTB.pfb><C:/Users/Tom/AppData/Roaming/MiKTeX/2.9
+/fonts/type1/public/libertine/LinLibertineT.pfb><C:/Users/Tom/AppData/Roaming/M
+iKTeX/2.9/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Users/Tom/AppData
+/Roaming/MiKTeX/2.9/fonts/type1/public/libertine/LinLibertineTI.pfb>
+Output written on sample-sigchi.pdf (4 pages, 379378 bytes).
 PDF statistics:
- 402 PDF objects out of 1000 (max. 8388607)
- 82 named destinations out of 1000 (max. 500000)
- 51954 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 119 PDF objects out of 1000 (max. 8388607)
+ 22 named destinations out of 1000 (max. 500000)
+ 43605 words of extra memory for PDF output out of 51595 (max. 10000000)
 
