@@ -16,3 +16,8 @@ Während des schreibens:
 
 # Diskussionspunkte
 - liegt es an den Gesten, oder an der VR - Brille? 
+
+# Wichtige Punkte für das Schreiben einer wissenschaftlichen Arbeit
+- lange Texte unterteilen (bspw. in Themenbereiche)
+- KEINE Vornamen nennen
+- KEINE Papertitel zitieren, lediglich Autoren + Quelle
