@@ -1,25 +1,27 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.1)  17 JUN 2019 23:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.6.25)  18 JUL 2019 19:17
 entering extended mode
-**./sample-sigchi.tex
-(sample-sigchi.tex
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**sample-sigchi.tex
+(./sample-sigchi.tex
 LaTeX2e <2018-12-01>
-(acmart.cls
+(./acmart.cls
 Document Class: acmart 2019/05/27 v1.61 Typesetting articles for the Associatio
 n for Computing Machinery
-("C:\Program Files\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.sty"
+(c:/texlive/2019/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.tex"
-("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\xkvutils.tex"
+(c:/texlive/2019/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/texlive/2019/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks14
 \XKV@tempa@toks=\toks15
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\keyval.tex"))
+(c:/texlive/2019/texmf-dist/tex/generic/xkeyval/keyval.tex))
 \XKV@depth=\count80
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/xstring\xstring.sty
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/generic/xstring\xstring.tex
+(c:/texlive/2019/texmf-dist/tex/generic/xstring/xstring.sty
+(c:/texlive/2019/texmf-dist/tex/generic/xstring/xstring.tex
 \integerpart=\count81
 \decimalpart=\count82
 )
@@ -38,29 +40,29 @@ Package acmart Info: Not using authordraft mode on input line 157.
 Class acmart Info: Using format sigchi, number 7 on input line 166.
 Class acmart Info: Using fontsize 10pt on input line 230.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/amscls\amsart.cls"
+(c:/texlive/2019/texmf-dist/tex/latex/amscls/amsart.cls
 Document Class: amsart 2017/10/31 v2.20.4
 \linespacing=\dimen102
 \normalparindent=\dimen103
 \normaltopskip=\skip41
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+(c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2018/12/01 v2.17b AMS math features
 \@mathmargin=\skip42
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+(c:/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+(c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
 \ex@=\dimen104
 ))
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+(c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen105
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+(c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count83
@@ -103,10 +105,10 @@ LaTeX Info: Redefining \] on input line 2845.
 )
 LaTeX Font Info:    Try loading font information for U+msa on input line 398.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+(c:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
+(c:/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
@@ -137,7 +139,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 \thm@headsep=\skip50
 \dth@everypar=\toks26
 )
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/microtype\microtype.sty
+(c:/texlive/2019/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2019/02/28 v2.7b Micro-typographical refinements (RS)
 \MT@toks=\toks27
 \MT@count=\count103
@@ -146,8 +148,7 @@ LaTeX Info: Redefining \textls on input line 790.
 LaTeX Info: Redefining \textmicrotypecontext on input line 1336.
 \MT@listname@count=\count104
 
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/microtype\microtype-pdftex.d
-ef
+(c:/texlive/2019/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2019/02/28 v2.7b Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 914.
@@ -155,14 +156,16 @@ LaTeX Info: Redefining \lslig on input line 914.
 \MT@outer@space=\skip51
 )
 Package microtype Info: Loading configuration file microtype.cfg.
- (C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/microtype\microtype.cfg
+
+(c:/texlive/2019/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2019/02/28 v2.7b microtype main configuration file (RS)
-)) (C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/etoolbox\etoolbox.sty
+))
+(c:/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count105
 )
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/booktabs\booktabs.sty
-Package: booktabs 2005/04/14 v1.61803 publication quality tables
+(c:/texlive/2019/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \heavyrulewidth=\dimen115
 \lightrulewidth=\dimen116
 \cmidrulewidth=\dimen117
@@ -181,45 +184,45 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@lastruleclass=\count109
 \@thisrulewidth=\dimen127
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\refcount.sty"
+(c:/texlive/2019/texmf-dist/tex/latex/oberdiek/refcount.sty
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 ))
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/totpages\totpages.sty
+(c:/texlive/2019/texmf-dist/tex/latex/totpages/totpages.sty
 Package: totpages 2005/09/19 v2.00 Totpages Package (muewi)
 
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/ms\everyshi.sty
+(c:/texlive/2019/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/environ\environ.sty
+(c:/texlive/2019/texmf-dist/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
 
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/trimspaces\trimspaces.sty
+(c:/texlive/2019/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/textcase\textcase.sty
+(c:/texlive/2019/texmf-dist/tex/latex/textcase/textcase.sty
 Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
 )
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/natbib\natbib.sty
+(c:/texlive/2019/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip52
 \bibsep=\skip53
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count110
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty"
+(c:/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\hobsub-hyperref.sty"
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\hobsub-generic.sty"
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -254,34 +257,34 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package hobsub Info: Skipping package `refcount' (already loaded).
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.sty"
+(c:/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\auxhook.sty"
+(c:/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+(c:/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen128
 \Hy@linkcounter=\count111
 \Hy@pagecounter=\count112
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
+(c:/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count113
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/00miktex\hyperref.cfg"
+(c:/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4393
 .
 Package hyperref Info: Option `unicode' set `true' on input line 4393.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\puenc.def"
+(c:/texlive/2019/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -295,7 +298,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4772.
 \c@Hy@tempcnt=\count114
 
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/url\url.sty
+(c:/texlive/2019/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -319,42 +322,42 @@ LaTeX Info: Redefining \pageref on input line 6454.
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
+(c:/texlive/2019/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
 \Fld@listcount=\count119
 \c@bookmark@seq@number=\count120
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\rerunfilecheck.sty"
+(c:/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip54
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+(c:/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+(c:/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen132
 \Gin@req@width=\dimen133
 )
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/xcolor\xcolor.sty
+(c:/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+(c:/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -368,7 +371,7 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
+(c:/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2018/04/16 v5.8 Page Geometry
 \Gm@cnth=\count121
 \Gm@cntv=\count122
@@ -382,12 +385,11 @@ Package: geometry 2018/04/16 v5.8 Page Geometry
 \Gm@layouthoffset=\dimen140
 \Gm@layoutvoffset=\dimen141
 \Gm@dimlist=\toks28
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/ncctools\manyfoot.sty
+)
+(c:/texlive/2019/texmf-dist/tex/latex/ncctools/manyfoot.sty
 Package: manyfoot 2005/09/11 v1.10 Many Footnote Levels Package (NCC)
 
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/ncctools\nccfoots.sty
+(c:/texlive/2019/texmf-dist/tex/latex/ncctools/nccfoots.sty
 Package: nccfoots 2005/02/03 v1.2 NCC Footnotes Package (NCC)
 )
 \MFL@columnwidth=\dimen142
@@ -397,26 +399,26 @@ Package: nccfoots 2005/02/03 v1.2 NCC Footnotes Package (NCC)
 \footinscopyrightpermission=\insert197
 \c@footnotecopyrightpermission=\count125
 
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/iftex\iftex.sty
+(c:/texlive/2019/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
 and LuaTeX
 )
-("C:\Program Files\MiKTeX 2.9\tex/generic/pdftex\glyphtounicode.tex")
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/cmap\cmap.sty
+(c:/texlive/2019/texmf-dist/tex/generic/pdftex/glyphtounicode.tex)
+(c:/texlive/2019/texmf-dist/tex/latex/cmap/cmap.sty
 Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+(c:/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1enc.def"
+(c:/texlive/2019/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 )<<t1.cmap>>)
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/libertine\libertine.sty
+(c:/texlive/2019/texmf-dist/tex/latex/libertine/libertine.sty
 Package: libertine 2019/02/27 (Bob Tennent) Supports Libertine and Biolinum fon
 ts for all LaTeX engines.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\textcomp.sty"
+(c:/texlive/2019/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -431,12 +433,12 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1enc.def"
+(c:/texlive/2019/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1enc.dfu"
+(c:/texlive/2019/texmf-dist/tex/latex/base/ts1enc.dfu
 File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
@@ -573,7 +575,7 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/mweights\mweights.sty
+(c:/texlive/2019/texmf-dist/tex/latex/mweights/mweights.sty
 Package: mweights 2017/03/30 (Bob Tennent) Support package for multiple-weight 
 font packages. 
 LaTeX Info: Redefining \bfseries on input line 22.
@@ -582,35 +584,35 @@ LaTeX Info: Redefining \rmfamily on input line 38.
 LaTeX Info: Redefining \sffamily on input line 66.
 LaTeX Info: Redefining \ttfamily on input line 94.
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+(c:/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
 )
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/fontaxes\fontaxes.sty
+(c:/texlive/2019/texmf-dist/tex/latex/fontaxes/fontaxes.sty
 Package: fontaxes 2014/03/23 v1.0d Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
 LaTeX Info: Redefining \itshape on input line 31.
 LaTeX Info: Redefining \slshape on input line 33.
 LaTeX Info: Redefining \scshape on input line 37.
 )
-LaTeX Info: Redefining \oldstylenums on input line 489.
+LaTeX Info: Redefining \oldstylenums on input line 490.
 
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/libertine\LinLibertine_I.tex
-)) (C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/inconsolata\zi4.sty
-Package: zi4 2017/01/04 v1.112
+(c:/texlive/2019/texmf-dist/tex/latex/libertine/LinLibertine_I.tex))
+(c:/texlive/2019/texmf-dist/tex/latex/inconsolata/zi4.sty
+Package: zi4 2019/05/17 v1.12
 
-`inconsolata-zi4' v1.112, 2017/01/04 Text macros for Inconsolata (msharpe)
+`inconsolata-zi4' v1.12, 2019/05/17 Text macros for Inconsolata (msharpe)
 \zifour@ocount=\count126
 )
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/newtx\newtxmath.sty
+(c:/texlive/2019/texmf-dist/tex/latex/newtx/newtxmath.sty
 Package: newtxmath 2018/05/15 v1.553
 
 `newtxmath' v1.553, 2018/05/15 Math macros based originally on txfonts (msharpe
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\centernot.sty"
+) (c:/texlive/2019/texmf-dist/tex/latex/oberdiek/centernot.sty
 Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
 )
 \tx@cntz=\count127
 
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/generic/binhex\binhex.tex)
+(c:/texlive/2019/texmf-dist/tex/generic/kastrup/binhex.tex)
 \tx@Isdigit=\count128
 \tx@IsAlNum=\count129
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 171.
@@ -741,10 +743,10 @@ LaTeX Info: Redefining \not on input line 2322.
 LaTeX Info: Redefining \textsquare on input line 2352.
 LaTeX Info: Redefining \openbox on input line 2354.
 )
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/caption\caption.sty
+(c:/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
 
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/caption\caption3.sty
+(c:/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
 \captionmargin=\dimen143
@@ -760,7 +762,7 @@ Package caption Info: AMS or SMF document class.
 \c@ContinuedFloat=\count137
 Package caption Info: hyperref package is loaded.
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
+(c:/texlive/2019/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count138
 \float@exts=\toks29
@@ -783,7 +785,7 @@ Class acmart Info: Printing bibformat on input line 1390.
 Class acmart Info: Suppressing folios on input line 1397.
 Class acmart Info: Setting authorsperrow to 0 on input line 1400.
 
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/comment\comment.sty
+(c:/texlive/2019/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write3
 
 Excluding comment 'comment') Excluding comment 'CCSXML'
@@ -794,7 +796,7 @@ Excluding comment 'comment') Excluding comment 'CCSXML'
 \author@bx@wd=\dimen152
 \author@bx@sep=\skip59
 
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/fancyhdr\fancyhdr.sty
+(c:/texlive/2019/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip60
@@ -815,14 +817,14 @@ Special comment 'acks'
 LaTeX Font Info:    Try loading font information for T1+LinuxLibertineT-TLF on 
 input line 2848.
 
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/libertine\t1linuxlibertinet-
-tlf.fd
+(c:/texlive/2019/texmf-dist/tex/latex/libertine/T1LinuxLibertineT-TLF.fd
 File: T1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Li
 nuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 2848.
-) (C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/lineno\lineno.sty
+)
+(c:/texlive/2019/texmf-dist/tex/latex/lineno/lineno.sty
 Package: lineno 2005/11/02 line numbers on paragraphs v4.41
 \linenopenalty=\count143
 \output=\toks32
@@ -840,116 +842,114 @@ Package: lineno 2005/11/02 line numbers on paragraphs v4.41
 \bframebox=\box35
 LaTeX Info: Redefining \\ on input line 3056.
 )
-Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 72.
+Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 73.
 
 \c@theorem=\count150
 
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/preprint\balance.sty
+(c:/texlive/2019/texmf-dist/tex/latex/preprint/balance.sty
 Package: balance 1999/02/23 4.3 (PWD)
 \oldvsize=\dimen161
 )
 Excluding comment 'screenonly' Include comment 'printonly'
-Include comment 'anonsuppress' (sample-sigchi.aux)
+Include comment 'anonsuppress' (./sample-sigchi.aux)
 \openout1 = `sample-sigchi.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 72.
-LaTeX Font Info:    Try loading font information for OML+nxlmi on input line 72
+LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 73.
+LaTeX Font Info:    Try loading font information for OML+nxlmi on input line 73
 .
 
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/newtx\omlnxlmi.fd
+(c:/texlive/2019/texmf-dist/tex/latex/newtx/omlnxlmi.fd
 File: omlnxlmi.fd 2013/11/19 Fontinst v1.933 font definitions for OML/nxlmi.
 )
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 72.
-LaTeX Font Info:    Try loading font information for U+ntxexa on input line 72.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 73.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 73.
 
 
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/newtx\untxexa.fd
+(c:/texlive/2019/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 72.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 73.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
+(c:/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 72.
-LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 72
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 73.
+LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 73
 .
 
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/newtx\lmsntxsy.fd
+(c:/texlive/2019/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 73.
 LaTeX Font Info:    Try loading font information for LMX+ntxexx on input line 7
-2.
+3.
 
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/newtx\lmxntxexx.fd
+(c:/texlive/2019/texmf-dist/tex/latex/newtx/lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    ... okay on input line 73.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 72.
+(Font)              scaled to size 8.0pt on input line 73.
 LaTeX Font Info:    Try loading font information for OT1+LinuxLibertineT-TLF on
- input line 72.
+ input line 73.
 
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/libertine\ot1linuxlibertinet
--tlf.fd
+(c:/texlive/2019/texmf-dist/tex/latex/libertine/OT1LinuxLibertineT-TLF.fd
 File: OT1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for OT1/
 LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 72.
+(Font)              scaled to size 8.0pt on input line 73.
 <<ot1.cmap>>
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.2pt on input line 72.
+(Font)              scaled to size 6.2pt on input line 73.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 72.
+(Font)              scaled to size 5.5pt on input line 73.
 <<oml.cmap>>
-LaTeX Font Info:    Try loading font information for U+msa on input line 72.
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+LaTeX Font Info:    Try loading font information for U+msa on input line 73.
+ (c:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 72.
+LaTeX Font Info:    Try loading font information for U+msb on input line 73.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+(c:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+ntxmia on input line 72.
+LaTeX Font Info:    Try loading font information for U+ntxmia on input line 73.
 
 
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/newtx\untxmia.fd
+(c:/texlive/2019/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsym on input line 72.
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 73.
 
 
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/newtx\untxsym.fd
+(c:/texlive/2019/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 72.
+LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 73.
 
 
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/newtx\untxsyc.fd
+(c:/texlive/2019/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
-LaTeX Info: Redefining \microtypecontext on input line 72.
+LaTeX Info: Redefining \microtypecontext on input line 73.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -966,26 +966,26 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box36
-Package hyperref Info: Link coloring OFF on input line 72.
+Package hyperref Info: Link coloring OFF on input line 73.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
+(c:/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count151
 )
-LaTeX Info: Redefining \ref on input line 72.
-LaTeX Info: Redefining \pageref on input line 72.
-LaTeX Info: Redefining \nameref on input line 72.
+LaTeX Info: Redefining \ref on input line 73.
+LaTeX Info: Redefining \pageref on input line 73.
+LaTeX Info: Redefining \nameref on input line 73.
 
-(sample-sigchi.out) (sample-sigchi.out)
+(./sample-sigchi.out) (./sample-sigchi.out)
 \@outlinefile=\write4
 \openout4 = `sample-sigchi.out'.
 
 
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/context/base/mkii\supp-pdf.mkii
+(c:/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count152
 \scratchdimen=\dimen162
@@ -998,10 +998,10 @@ LaTeX Info: Redefining \nameref on input line 72.
 \MPnumerator=\count156
 \makeMPintoPDFobject=\count157
 \everyMPtoPDFconversion=\toks34
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+) (c:/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+(c:/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1010,7 +1010,11 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-)
+
+(c:/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1047,7 +1051,7 @@ G,.JBIG2,.JB2,.eps]
 
 \c@mv@tabular=\count158
 \c@mv@boldtabular=\count159
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/upquote\upquote.sty
+(c:/texlive/2019/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
 )
@@ -1057,123 +1061,152 @@ Package caption Info: End \AtBeginDocument code.
 
 Excluding 'CCSXML' comment.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 176.
+(Font)              scaled to size 20.74pt on input line 177.
 LaTeX Font Info:    Try loading font information for T1+LinuxBiolinumT-TLF on i
-nput line 176.
+nput line 177.
 
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/libertine\t1linuxbiolinumt-t
-lf.fd
+(c:/texlive/2019/texmf-dist/tex/latex/libertine/T1LinuxBiolinumT-TLF.fd
 File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Lin
 uxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 176.
+(Font)              scaled to size 20.74pt on input line 177.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxBiolinumT-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 20.74pt on input line 176.
+(Font)              scaled to size 20.74pt on input line 177.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 176.
+(Font)              scaled to size 10.0pt on input line 177.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 176.
+(Font)              scaled to size 10.0pt on input line 177.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 176.
- (C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/microtype\mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-) (C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/microtype\mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
-[1.1]
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 8.0pt on input line 176.
-LaTeX Font Info:    Try loading font information for TS1+LinuxLibertineT-TLF on
- input line 176.
+(Font)              scaled to size 7.3pt on input line 177.
 
-(C:\Users\Tom\AppData\Roaming\MiKTeX\2.9\tex/latex/libertine\ts1linuxlibertinet
--tlf.fd
+(c:/texlive/2019/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+) [1.1]
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 8.0pt on input line 177.
+LaTeX Font Info:    Try loading font information for TS1+LinuxLibertineT-TLF on
+ input line 177.
+
+(c:/texlive/2019/texmf-dist/tex/latex/libertine/TS1LinuxLibertineT-TLF.fd
 File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/
 LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 176.
+(Font)              scaled to size 8.0pt on input line 177.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 176.
+(Font)              scaled to size 10.0pt on input line 177.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 176.
+(Font)              scaled to size 10.0pt on input line 177.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 176.
+(Font)              scaled to size 6.0pt on input line 177.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 176.
+(Font)              scaled to size 6.0pt on input line 177.
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 176.
+(Font)              scaled to size 10.0pt on input line 177.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 176.
+(Font)              scaled to size 10.0pt on input line 177.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 176.
+(Font)              scaled to size 9.0pt on input line 177.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 176.
+(Font)              scaled to size 9.0pt on input line 177.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 176.
+(Font)              scaled to size 9.0pt on input line 177.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 176.
+(Font)              scaled to size 9.0pt on input line 177.
 Missing character: There is no ´ in font LinLibertineT-tlf-ts1!
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 184.
- [2.2{C:/Users/Tom/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+(Font)              scaled to size 8.0pt on input line 185.
+
+[2.2{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [3.3]
+<female_stimuli.png, id=79, 733.7814pt x 391.4625pt>
+File: female_stimuli.png Graphic file (type png)
+<use female_stimuli.png>
+Package pdftex.def Info: female_stimuli.png  used on input line 212.
+(pdftex.def)             Requested size: 239.00314pt x 127.50453pt.
+<male_stimuli.png, id=81, 726.5544pt x 416.2752pt>
+File: male_stimuli.png Graphic file (type png)
+<use male_stimuli.png>
+Package pdftex.def Info: male_stimuli.png  used on input line 214.
+(pdftex.def)             Requested size: 239.00314pt x 136.93295pt.
+
+
+Class acmart Warning: A possible image without description on input line 216.
+
+<vr_gestures.png, id=82, 778.5888pt x 416.2752pt>
+File: vr_gestures.png Graphic file (type png)
+<use vr_gestures.png>
+Package pdftex.def Info: vr_gestures.png  used on input line 222.
+(pdftex.def)             Requested size: 239.00314pt x 127.77995pt.
+
+Class acmart Warning: A possible image without description on input line 224.
+
+(./sample-sigchi.bbl [4.4 <./female_stimuli.png> <./male_stimuli.png> <./vr_ges
+tures.png>])
+
+Class acmart Warning: Some images may lack descriptions.
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3.3]
-(sample-sigchi.bbl)
 
-Package balance Warning: You have called \balance in second column
-(balance)                Columns might not be balanced.
+Overfull \vbox (623.0pt too high) has occurred while \output is active []
 
-[4.4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 228.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 228.
- (sample-sigchi.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 228.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 228.
+
+Overfull \vbox (623.0pt too high) has occurred while \output is active []
+
+ [5.5]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 246.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 246.
+
+(./sample-sigchi.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 246.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 246.
 Package rerunfilecheck Info: File `sample-sigchi.out' has not changed.
-(rerunfilecheck)             Checksum: A4760FC8D992CD2E3E5A525A1F6EC48E;1167.
+(rerunfilecheck)             Checksum: ED0EC8868020F92BF607DE62E33457F6;1174.
  ) 
 Here is how much of TeX's memory you used:
- 18273 strings out of 492897
- 275964 string characters out of 3133505
- 400322 words of memory out of 3000000
- 21464 multiletter control sequences out of 15000+200000
- 134438 words of font info for 235 fonts, out of 3000000 for 9000
+ 18298 strings out of 492609
+ 274474 string characters out of 6132818
+ 400530 words of memory out of 5000000
+ 21487 multiletter control sequences out of 15000+600000
+ 134438 words of font info for 235 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 60i,11n,94p,1983b,436s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Tom/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lbtn_7gruk
-w.enc}{C:/Users/Tom/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lbtn_n
-aooyc.enc}{C:/Users/Tom/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertine/lb
-tn_76gpa5.enc}{C:/Users/Tom/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libertin
-e/lbtn_nh77jq.enc}{C:/Users/Tom/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/libe
-rtine/lbtn_25tcsq.enc}<C:/Users/Tom/AppData/Roaming/MiKTeX/2.9/fonts/type1/publ
-ic/libertine/LinBiolinumT.pfb><C:/Users/Tom/AppData/Roaming/MiKTeX/2.9/fonts/ty
-pe1/public/libertine/LinBiolinumTB.pfb><C:/Users/Tom/AppData/Roaming/MiKTeX/2.9
-/fonts/type1/public/libertine/LinLibertineT.pfb><C:/Users/Tom/AppData/Roaming/M
-iKTeX/2.9/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Users/Tom/AppData
-/Roaming/MiKTeX/2.9/fonts/type1/public/libertine/LinLibertineTI.pfb>
-Output written on sample-sigchi.pdf (4 pages, 379378 bytes).
+ 60i,11n,94p,1982b,573s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2019/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{c:/tex
+live/2019/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{c:/texlive/2019
+/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{c:/texlive/2019/texmf-di
+st/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{c:/texlive/2019/texmf-dist/fonts/
+enc/dvips/libertine/lbtn_25tcsq.enc}<c:/texlive/2019/texmf-dist/fonts/type1/pub
+lic/libertine/LinBiolinumT.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/l
+ibertine/LinBiolinumTB.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/liber
+tine/LinLibertineT.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/libertine
+/LinLibertineTB.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/libertine/Li
+nLibertineTI.pfb>
+Output written on sample-sigchi.pdf (5 pages, 1143130 bytes).
 PDF statistics:
- 119 PDF objects out of 1000 (max. 8388607)
- 22 named destinations out of 1000 (max. 500000)
- 43605 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 136 PDF objects out of 1000 (max. 8388607)
+ 107 compressed objects within 2 object streams
+ 25 named destinations out of 1000 (max. 500000)
+ 43620 words of extra memory for PDF output out of 51595 (max. 10000000)
 
