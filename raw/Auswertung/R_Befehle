@@ -1,0 +1,39 @@
+library(languageR)
+library(lme4)
+library(ggplot2)
+library(rms)
+library(plyr)
+library(reshape2)
+library(psych)
+
+> Auswertung_gesamt$Desires <- (Auswertung_gesamt$Q1 + Auswertung_gesamt$Q2 + Auswertung_gesamt$Q3 + Auswertung_gesamt$Q4 + Auswertung_gesamt$Q5 + Auswertung_gesamt$Q6 + Auswertung_gesamt$Q7 + Auswertung_gesamt$Q8) / 8
+> Auswertung_gesamt$Fears <- (Auswertung_gesamt$Q9 + Auswertung_gesamt$Q10 + Auswertung_gesamt$Q11 + Auswertung_gesamt$Q12 + Auswertung_gesamt$Q13 + Auswertung_gesamt$Q14) / 6
+> fit <- manova(cbind(Auswertung_gesamt$Desires, Auswertung_gesamt$Fears) ~ Case*Actor + Error(Id/(Case+Actor)), Auswertung_gesamt)
+
+# Übersicht Auswertung
+> summary(fit)
+
+# Durchschnittsübersicht
+> fearMean <- aggregate(Auswertung_gesamt$Fears, by=list(Auswertung_gesamt$Case, Auswertung_gesamt$Actor), function(x) c(mean = mean(x), ci=qt(0.95,df=length(x)-1)*sd(x)/sqrt(length(x))))
+> fearMean <- do.call(data.frame, fearMean)
+> colnames(fearMean) <- c("Case", "Actor", "Fear_Mean", "Fear_CI")
+> desiresMean <- aggregate(Auswertung_gesamt$Desires, by=list(Auswertung_gesamt$Case, Auswertung_gesamt$Actor), function(x) c(mean = mean(x), ci=qt(0.95,df=length(x)-1)*sd(x)/sqrt(length(x))))
+> desiresMean <- do.call(data.frame, desiresMean)
+> colnames(desiresMean) <- c("Case", "Actor", "Desires_Mean", "Desires_CI")
+> means <- fearMean
+> means$Desires_Mean <- desiresMean$Desires_Mean
+> means$Desires_CI <- desiresMean$Desires_CI
+> head(means)
+
+# Plotten
+> ggplot(means, aes(x=Desires_Mean, y=Fear_Mean, color=Case)) + 
++     scale_y_continuous(limits=c(2, 3))+
++     scale_x_continuous(limits=c(1, 3))+
++     geom_rect(aes(x=0, y=0, 
++                   xmin=Desires_Mean - Desires_CI,
++                   xmax=Desires_Mean + Desires_CI,
++                   ymin=Fear_Mean - Fear_CI,
++                   ymax=Fear_Mean + Fear_CI),
++               alpha=0.1,
++               show.legend=F) +
++     geom_point() + facet_wrap(.~Actor) + ggsave(filename="scmplot.pdf")
