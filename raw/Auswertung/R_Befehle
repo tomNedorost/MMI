@@ -12,9 +12,15 @@ library(psych)
 > AuswertungGesamt$Id <- as.factor(AuswertungGesamt$Id)
 
 ## Übersicht Auswertung
-summary(aov(desires ~ Case * Actor + Error(Id), AuswertungGesamt))
-summary(aov(fears ~ Case * Actor + Error(Id), AuswertungGesamt))
-summary(aov(WEAR ~ Case * Actor + Error(Id), AuswertungGesamt))
+## Hier wird zuerst ein aov (ANOVA) gemacht. Das Pr(>F) sagt aus, ob etwas signifikant ist oder nicht. Case bedeuted dabei den Fall (also ob mit Handy, Ocolus, oder Ocolus mit geste)
+## Actor bezieht sich dabei auf das Geschlecht des Actors
+## Folgende Fälle werden abgedeckt:
+## 1) Desires im Bezug auf Case und Actor
+1) summary(aov(desires ~ Case * Actor + Error(Id), AuswertungGesamt))
+## 2) Fears im Bezug auf Case und Actor
+2) summary(aov(fears ~ Case * Actor + Error(Id), AuswertungGesamt))
+## 3) WEAR Scale im Bezug auf Case und Actor
+3) summary(aov(WEAR ~ Case * Actor + Error(Id), AuswertungGesamt))
 
 # Ergebnis
 > summary(aov(desires ~ Case * Actor + Error(Id), AuswertungGesamt))
@@ -27,6 +33,10 @@ Case:Actor  2  0.081  0.0406   0.117 0.88939
 Residuals  54 18.673  0.3458                   
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+# Beschreibung des Ergebnisses: 2 Sterne bei Pr(>F) hinter 0.00561 **, daher ist es signifikant.
+
+
 > summary(aov(fears ~ Case * Actor + Error(Id), AuswertungGesamt))
 
 Error: Id
@@ -35,6 +45,9 @@ Case        2  0.184  0.0921   0.341  0.712
 Actor       1  0.504  0.5042   1.869  0.177
 Case:Actor  2  0.469  0.2347   0.870  0.425
 Residuals  54 14.569  0.2698 
+
+# Beschreibung des Ergebnisses: keine Sterne bei Pr(>F) daher ist es nicht signifikant.
+
 
 > summary(aov(WEAR ~ Case * Actor + Error(Id), AuswertungGesamt))
 
@@ -47,9 +60,17 @@ Residuals  54  9.577  0.1773
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
-Da das Geschlecht des Actor hat keinen Einfluss hat, also machen wir paarweise Vergleiche (t-tests) nur zwischen den drei Conditions. 
+# Beschreibung des Ergebnisses: keine Sterne bei Pr(>F) daher ist es nicht signifikant.
+# Wir haben also nur ein Signifikantes Ergebnis bei Case (siehe oben) 
+Df Sum Sq Mean Sq F value  Pr(>F)   
+2  3.952  1.9760   5.714 0.00561 **
+
+# Daher hat das Geschlecht des Actor keinen Einfluss hat (wdh.: kein Signifikates Ergebnis), 
+# also machen wir paarweise Vergleiche (t-tests) nur zwischen den drei Conditions bzw den einzelnen Cases, 
+# weil es da ja ein Signifikantes Ergebnis haben.
 
 # T- Test
+# Hier kommen die T-Test. Paarweise bedeutet, dass wir sie untereinander miteinander Vergleichen. Wichtig hierbei wieder das p-value
 > data_HandyO <- subset(AuswertungGesamt, AuswertungGesamt$Case == "Handy" | AuswertungGesamt$Case == "Oculus")
 > t.test(AuswertungGesamt$desires ~ AuswertungGesamt$Case, mu=0, alt="two.sided", conf=0.95, var.eq=F, paired=F)
 Error in t.test.formula(AuswertungGesamt$desires ~ AuswertungGesamt$Case,  : 
@@ -66,6 +87,8 @@ alternative hypothesis: true difference in means is not equal to 0
 sample estimates:
  mean in group Handy mean in group Oculus 
              2.11875              1.98125 
+# p-value is 0.4409, daher besteht hier kein Zusammenhang. 
+	     
 
 > data_GestureO <- subset(AuswertungGesamt, AuswertungGesamt$Case == "Gesture" | AuswertungGesamt$Case == "Oculus")
 > t.test(data_GestureO$desires ~ data_GestureO$Case, mu=0, alt="two.sided", conf=0.95, var.eq=F, paired=F)
@@ -80,6 +103,7 @@ alternative hypothesis: true difference in means is not equal to 0
 sample estimates:
 mean in group Gesture  mean in group Oculus 
               1.51875               1.98125 
+# p-value ist 0.2276, also besteht hier kein Zusammenhang.
 
 > data_HandyG <- subset(AuswertungGesamt, AuswertungGesamt$Case == "Handy" | AuswertungGesamt$Case == "Gesture")
 > t.test(data_HandyG$desires ~ data_HandyG$Case, mu=0, alt="two.sided", conf=0.95, var.eq=F, paired=F)
@@ -94,3 +118,5 @@ alternative hypothesis: true difference in means is not equal to 0
 sample estimates:
 mean in group Gesture   mean in group Handy 
               1.51875               2.11875 
+	      
+# p-value ist p-value = 0.001976, also besteht ihr ein Zusammenhang. Verglichen wurde Handy mit Gesture
