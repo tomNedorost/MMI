@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.6.25)  6 SEP 2019 12:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.6.25)  6 SEP 2019 13:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1146,12 +1146,12 @@ Package natbib Warning: Citation `kelly2018wearer' on page 3 undefined on input
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3.3]
-<female_stimuli.png, id=95, 733.7814pt x 391.4625pt>
+<female_stimuli.png, id=99, 733.7814pt x 391.4625pt>
 File: female_stimuli.png Graphic file (type png)
 <use female_stimuli.png>
 Package pdftex.def Info: female_stimuli.png  used on input line 211.
 (pdftex.def)             Requested size: 239.00314pt x 127.50453pt.
-<male_stimuli.png, id=97, 726.5544pt x 416.2752pt>
+<male_stimuli.png, id=101, 726.5544pt x 416.2752pt>
 File: male_stimuli.png Graphic file (type png)
 <use male_stimuli.png>
 Package pdftex.def Info: male_stimuli.png  used on input line 213.
@@ -1163,7 +1163,7 @@ Class acmart Warning: A possible image without description on input line 215.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<vr_gestures.png, id=98, 778.5888pt x 416.2752pt>
+<vr_gestures.png, id=102, 778.5888pt x 416.2752pt>
 File: vr_gestures.png Graphic file (type png)
 <use vr_gestures.png>
 Package pdftex.def Info: vr_gestures.png  used on input line 221.
@@ -1178,7 +1178,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Underfull \vbox (badness 1137) has occurred while \output is active []
 
  [4.4 <./female_stimuli.png> <./male_stimuli.png> <./vr_gestures.png>]
-<WEAR-figure.png, id=110, 2007.5pt x 1649.16125pt>
+<WEAR-figure.png, id=114, 2007.5pt x 1649.16125pt>
 File: WEAR-figure.png Graphic file (type png)
 <use WEAR-figure.png>
 Package pdftex.def Info: WEAR-figure.png  used on input line 242.
@@ -1187,16 +1187,33 @@ Package pdftex.def Info: WEAR-figure.png  used on input line 242.
 
 Class acmart Warning: A possible image without description on input line 244.
 
+<IMG_121256_edited.jpg, id=115, 3035.34pt x 4047.12pt>
+File: IMG_121256_edited.jpg Graphic file (type jpg)
+<use IMG_121256_edited.jpg>
+Package pdftex.def Info: IMG_121256_edited.jpg  used on input line 249.
+(pdftex.def)             Requested size: 239.00314pt x 318.65063pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Class acmart Warning: A possible image without description on input line 251.
 
- [5.5 <./WEAR-Figure.png>] (./sample-sigchi.bbl)
+<IMG_5319_edited.jpg, id=116, 3035.34pt x 2378.8875pt>
+File: IMG_5319_edited.jpg Graphic file (type jpg)
+<use IMG_5319_edited.jpg>
+Package pdftex.def Info: IMG_5319_edited.jpg  used on input line 256.
+(pdftex.def)             Requested size: 239.00314pt x 187.30208pt.
+
+Class acmart Warning: A possible image without description on input line 258.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5.5 <./WEAR-Figure.png> <./IMG_121256_edited.jpg>] (./sample-sigchi.bbl)
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/sc' will be
-(Font)              scaled to size 10.0pt on input line 264.
+(Font)              scaled to size 10.0pt on input line 278.
 
-No file sample-sigchi.lof.
+(./sample-sigchi.lof)
 \tf@lof=\write5
 \openout5 = `sample-sigchi.lof'.
+
 
 
 Package natbib Warning: There were undefined citations.
@@ -1205,21 +1222,15 @@ Package natbib Warning: There were undefined citations.
 Class acmart Warning: Some images may lack descriptions.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Package balance Warning: You have called \balance in second column
+(balance)                Columns might not be balanced.
 
-
-Overfull \vbox (623.0pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (623.0pt too high) has occurred while \output is active []
-
- [6.6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 266.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 266.
-
-(./sample-sigchi.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 266.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 266.
+[6.6 <./IMG_5319_edited.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 280.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 280.
+ (./sample-sigchi.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 280.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 280.
 
 
 Package rerunfilecheck Warning: File `sample-sigchi.out' has changed.
@@ -1227,17 +1238,14 @@ Package rerunfilecheck Warning: File `sample-sigchi.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `sample-sigchi.out':
-(rerunfilecheck)             Before: 27B63616A1D1285A2F36949FB7219850;1628
-(rerunfilecheck)             After:  9E5DD50379EB1F87F81B55009230921D;1763.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+(rerunfilecheck)             Before: D2109F09D9F13DC27078713BF08133A5;1763
+(rerunfilecheck)             After:  EE8B2C4B7E86392021767734D5BC0A03;1763.
  ) 
 Here is how much of TeX's memory you used:
- 18332 strings out of 492609
- 275135 string characters out of 6132818
- 402530 words of memory out of 5000000
- 21498 multiletter control sequences out of 15000+600000
+ 18348 strings out of 492609
+ 275458 string characters out of 6132818
+ 402531 words of memory out of 5000000
+ 21507 multiletter control sequences out of 15000+600000
  139447 words of font info for 243 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  60i,11n,94p,1973b,447s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1252,10 +1260,10 @@ LinBiolinumTB.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/libertine/LinL
 ibertineT.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/libertine/LinLiber
 tineTB.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/libertine/LinLibertin
 eTI.pfb>
-Output written on sample-sigchi.pdf (6 pages, 1264213 bytes).
+Output written on sample-sigchi.pdf (6 pages, 11930650 bytes).
 PDF statistics:
- 165 PDF objects out of 1000 (max. 8388607)
- 132 compressed objects within 2 object streams
- 32 named destinations out of 1000 (max. 500000)
- 47753 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 177 PDF objects out of 1000 (max. 8388607)
+ 142 compressed objects within 2 object streams
+ 34 named destinations out of 1000 (max. 500000)
+ 47771 words of extra memory for PDF output out of 51595 (max. 10000000)
 
