@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.6.25)  1 SEP 2019 12:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.6.25)  6 SEP 2019 12:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1181,19 +1181,22 @@ Underfull \vbox (badness 1137) has occurred while \output is active []
 <WEAR-figure.png, id=110, 2007.5pt x 1649.16125pt>
 File: WEAR-figure.png Graphic file (type png)
 <use WEAR-figure.png>
-Package pdftex.def Info: WEAR-figure.png  used on input line 238.
+Package pdftex.def Info: WEAR-figure.png  used on input line 242.
 (pdftex.def)             Requested size: 239.00314pt x 196.33063pt.
 
 
-Class acmart Warning: A possible image without description on input line 240.
+Class acmart Warning: A possible image without description on input line 244.
 
-(./sample-sigchi.bbl)
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5.5 <./WEAR-Figure.png>] (./sample-sigchi.bbl)
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/sc' will be
-(Font)              scaled to size 10.0pt on input line 256.
- (./sample-sigchi.lof)
+(Font)              scaled to size 10.0pt on input line 264.
+
+No file sample-sigchi.lof.
 \tf@lof=\write5
 \openout5 = `sample-sigchi.lof'.
-
 
 
 Package natbib Warning: There were undefined citations.
@@ -1202,26 +1205,42 @@ Package natbib Warning: There were undefined citations.
 Class acmart Warning: Some images may lack descriptions.
 
 
-Package balance Warning: You have called \balance in second column
-(balance)                Columns might not be balanced.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[5.5 <./WEAR-Figure.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 258.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 258.
- (./sample-sigchi.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 258.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 258.
-Package rerunfilecheck Info: File `sample-sigchi.out' has not changed.
-(rerunfilecheck)             Checksum: 0FCFD891AA70A7645200931EC4080C19;1615.
+
+Overfull \vbox (623.0pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (623.0pt too high) has occurred while \output is active []
+
+ [6.6]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 266.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 266.
+
+(./sample-sigchi.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 266.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 266.
+
+
+Package rerunfilecheck Warning: File `sample-sigchi.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `sample-sigchi.out':
+(rerunfilecheck)             Before: 27B63616A1D1285A2F36949FB7219850;1628
+(rerunfilecheck)             After:  9E5DD50379EB1F87F81B55009230921D;1763.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 18326 strings out of 492609
- 275012 string characters out of 6132818
+ 18332 strings out of 492609
+ 275135 string characters out of 6132818
  402530 words of memory out of 5000000
  21498 multiletter control sequences out of 15000+600000
- 138901 words of font info for 239 fonts, out of 8000000 for 9000
+ 139447 words of font info for 243 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 60i,11n,94p,1973b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,11n,94p,1973b,447s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2019/texmf-dist/fonts/enc/dvips/libertine/lbtn_ncsllp.enc}{c:/tex
 live/2019/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{c:/texlive/2019
 /texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{c:/texlive/2019/texmf-di
@@ -1233,10 +1252,10 @@ LinBiolinumTB.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/libertine/LinL
 ibertineT.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/libertine/LinLiber
 tineTB.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/libertine/LinLibertin
 eTI.pfb>
-Output written on sample-sigchi.pdf (5 pages, 1258136 bytes).
+Output written on sample-sigchi.pdf (6 pages, 1264213 bytes).
 PDF statistics:
- 163 PDF objects out of 1000 (max. 8388607)
- 131 compressed objects within 2 object streams
- 30 named destinations out of 1000 (max. 500000)
+ 165 PDF objects out of 1000 (max. 8388607)
+ 132 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
  47753 words of extra memory for PDF output out of 51595 (max. 10000000)
 
